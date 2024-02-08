@@ -23,7 +23,8 @@ body {
 }
 .title h1{
   font-size: 2rem;
-  color: #66065e;
+  color: #0f55a5;
+  text-decoration: underline;
 }
 
 .board {
